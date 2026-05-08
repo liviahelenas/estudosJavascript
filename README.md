@@ -3,7 +3,7 @@
 Bem-vindo ao meu repositório de estudos em JavaScript! 🚀
 Aqui você vai encontrar exercícios, práticas e pequenos projetos que estou desenvolvendo ao longo da minha jornada como dev.
 
-# 📌 Objetivo
+## 📌 Objetivo
 
 Este repositório foi criado com o objetivo de:
 
@@ -15,7 +15,7 @@ Registrar minha evolução nos estudos
 
 Servir como material de consulta futura
 
-# 🧠 Organização
+## 🧠 Organização
 
 Os exercícios estão organizados por temas ou aulas.
 Exemplo:
@@ -26,7 +26,7 @@ Exemplo:
 📁 arrays/
 
 
-# ✨ Sobre mim
+## ✨ Sobre mim
 
 Sou estudante de desenvolvimento, apaixonada por design e tecnologia, e estou construindo minha carreira com muito aprendizado na prática 💖
 
