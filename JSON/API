@@ -1,0 +1,22 @@
+console.log("Fetch API");
+
+///Função fetch, retorna como promessa, com uma resposta
+///não é instantâneo
+
+
+
+
+    async function obterDadosFrase() {
+        try {
+            const resposta = await fetch("https://api.api-ninjas.com/v2/randomquotes?categories=success,wisdom");
+         const dados = await resposta.json();
+         console.log(dados);
+    }
+    catch(erro) {
+        console.log("Mensagem de erro, tente novamente");
+    } finally {
+        console.log("Terminou a requisição!");
+    }
+}
+
+obterDadosFrase();
