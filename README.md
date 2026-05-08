@@ -36,3 +36,10 @@ Sou estudante de desenvolvimento, apaixonada por design e tecnologia, e estou co
 Esse repositório faz parte da minha rotina de estudos, então ele está sempre em atualização!
 
 Se quiser acompanhar minha evolução, fica à vontade ⭐
+
+## 👩‍💻 Autora
+
+Feito com 💙 por **Livia Helena**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviahelenas)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liviahelenas)
