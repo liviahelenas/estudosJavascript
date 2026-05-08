@@ -20,10 +20,9 @@ Servir como material de consulta futura
 Os exercícios estão organizados por temas ou aulas.
 Exemplo:
 
-📁 variaveis/
-📁 condicionais/
-📁 loops/
-📁 funcoes/
+📁 API'S/
+📁 Funções/
+📁 JSON/
 📁 arrays/
 
 
